@@ -12,6 +12,7 @@ import tqdm
 import requests
 from colorama import Fore, Back, Style
 import json
+
 # Defining user agent
 headerss = {
     'User-Agent': 'yehorscode/Umimc (umimc@proton.me)'
@@ -21,6 +22,12 @@ debug_mode = True
 url_get_findrequest = "https://api.modrinth.com/v2/search?query="
 url_get_findrequest_string_type_mod = "&facets=[[%22project_type:mod%22]]"
 url_get_findproject = "https://api.modrinth.com/v2/project/"
+# VERY IMPORTANT LISTS/VALUES/DICTIONARIES
+fmod_title = []
+fmod_projectid = []
+fmod_categories = []
+fmod_dict = {}
+getmod_description = "None"
 
 # Printing Debug Mode Enabled
 if debug_mode == True:
@@ -78,12 +85,15 @@ if action == "1":
     
     # Converting Labrinthapi response to json
     jlabrinthapi = labrinthapi.json()
+    hits = jlabrinthapi["hits"]
+    hits_count = 0
 
     # Searching entire response
-    hits = jlabrinthapi["hits"]
     for mod in hits:
-        title = mod["title"]
-        print(title)
+        mod_title = mod["title"]
+        mod_project_id = mod["project_id"]
+        fmod_dict[hits_count] = mod_title, mod_project_id
+    print(fmod_dict)
 
 elif action == "3":
     # Asking for Modrinth Project project id
