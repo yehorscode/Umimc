@@ -18,7 +18,7 @@ headerss = {
     'User-Agent': 'yehorscode/Umimc (umimc@proton.me)'
 }
 # VERY IMPORT VALUES!
-debug_mode = True
+debug_mode = False
 url_get_findrequest = "https://api.modrinth.com/v2/search?query="
 url_get_findrequest_string_type_mod = "&facets=[[%22project_type:mod%22]]"
 url_get_findproject = "https://api.modrinth.com/v2/project/"
@@ -36,6 +36,7 @@ fmod_categories = {}
 fmod_dict = {}
 versions_dict = {}
 getmod_description = "None"
+versions_id_dict = {}
 
 # Stolen from stack overflow
 def prettysort(dct):
@@ -160,22 +161,36 @@ if action == "1":
     # Printing description
     print(Back.YELLOW+fmod_chosen)
     print(jfmod_desc_labrinthapi["description"])
-    print("Followers: "+jfmod_desc_labrinthapi["followers"]+Back.RESET)
+    print("Followers: "+str(jfmod_desc_labrinthapi["followers"])+Back.RESET)
 
     # Checking all of the versions
     counterr = 0
-    just_versions_list_from_the_project = jfmod_desc_labrinthapi["versions"]
-    for bejba in just_versions_list_from_the_project:
-        try:
-            version_id = bejba[str(counterr)]
-            versions_dict[counterr] = version_id
-            if debug_mode == True:
-                print(debug_text+"Found version id: "+version_id+Fore.RESET)
-            counterr += 1
-        except:
-            print(versions_dict)
+    jfmod_desc_labrinthapi["game_versions"]
 
-
+    for bejba in jfmod_desc_labrinthapi["game_versions"]:
+        versions_dict[counterr] = bejba
+        counterr += 1
+        if debug_mode == True:
+            print(debug_text+"Found version: "+bejba+Fore.RESET)
+    counterr = 0
+    for b in jfmod_desc_labrinthapi["versions"]:
+        versions_id_dict[counterr] = b
+        counterr +=1
+        if debug_mode == True:
+            print(debug_text+"Found "+str(len(versions_id_dict))+" versions id's"+Fore.RESET)
+            print(b)
+    
+    # User interaction with fmod (choosing mod id and mod name)
+    fmod_user_interaction_modversion = input(Back.GREEN+"What version do You need?: "+Back.RESET)
+    
+    # Checking if the version is avaible
+    counterr = 0
+    for i in range(len(versions_dict)):
+        if versions_dict[counterr] == fmod_user_interaction_modversion:
+            print(Back.GREEN+"Found version!"+Back.RESET)
+            break
+        else:
+            counterr+=1
 
 elif action == "3":
     # Asking for Modrinth Project project id
