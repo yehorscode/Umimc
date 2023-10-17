@@ -1,0 +1,1099 @@
+[47m [30m Debug mode ENABLED [39m [49m
+[32mWelcome to Umimc! Universal Minecraft Mod installer!
+ [39m
+[42mSelect your mode:[49m
+[42m
+1: Installing, here you can install mods from Modrinth!
+2: Remove .minecraft/mods folder (removes all mods)
+3: Get info about the mod (requaires project id)
+4: Network check (checks is Labrinth avaible)
+5: Advanced tools[49m
+
+
+[42mWhat do You choose (type here)?: [49m[32mDEBUG: Action 1 was choosed[39m
+[42mWhat mod You want to Install?: [49m[32mDEBUG: Trying to request Labrinth at: https://api.modrinth.com/v2/search?query=sodium&facets=[[%22project_type:mod%22]] [39m
+[32mDEBUG: Succesfully requested Labrinth
+[36mSearching throught the response from Labrinth...[39m
+[32mDEBUG: Added Sodium to fmod_dict[39m
+[32mDEBUG: It's id is: AANobbMI[39m
+[32mDEBUG: Added Sodium Extra to fmod_dict[39m
+[32mDEBUG: It's id is: PtjYWJkn[39m
+[32mDEBUG: Added Sodium Shadowy Path Blocks to fmod_dict[39m
+[32mDEBUG: It's id is: EIa1eiMm[39m
+[32mDEBUG: Added Sodium/Rubidium Occlusion Culling Fix to fmod_dict[39m
+[32mDEBUG: It's id is: jcn9RURP[39m
+[32mDEBUG: Added Sodium Blending Registry to fmod_dict[39m
+[32mDEBUG: It's id is: iq71kojm[39m
+[32mDEBUG: Added Sodium Crash Fix to fmod_dict[39m
+[32mDEBUG: It's id is: jg6Hhgf5[39m
+[32mDEBUG: Added Sodium Shader Support to fmod_dict[39m
+[32mDEBUG: It's id is: 8joDCBGc[39m
+[32mDEBUG: Added Better Sodium Video Settings Button to fmod_dict[39m
+[32mDEBUG: It's id is: tu2FohxL[39m
+[32mDEBUG: Added  Unofficial Sodium Biome Blending Fix to fmod_dict[39m
+[32mDEBUG: It's id is: s5ah9H3E[39m
+[32mDEBUG: Added Reese's Sodium Options to fmod_dict[39m
+[32mDEBUG: It's id is: Bh37bMuy[39m
+[46mFound 10 search results[49m
+[46m0 (Sodium)[49m
+[46m1 (Sodium Extra)[49m
+[46m2 (Sodium Shadowy Path Blocks)[49m
+[46m3 (Sodium/Rubidium Occlusion Culling Fix)[49m
+[46m4 (Sodium Blending Registry)[49m
+[46m5 (Sodium Crash Fix)[49m
+[46m6 (Sodium Shader Support)[49m
+[46m7 (Better Sodium Video Settings Button)[49m
+[46m8 ( Unofficial Sodium Biome Blending Fix)[49m
+[46m9 (Reese's Sodium Options)[49m
+[42mWhat to choose (type a number)?: [49m[32mDEBUG: Chosen mod is: Sodium
+Chosen mod project id is: AANobbMI[39m
+[32mDEBUG: Requested labrinth at https://api.modrinth.com/v2/project/AANobbMI/version[39m
+[32mDEBUG: Succesfully accesed Labrinth Api![39m
+[32mDEBUG: Requested labrinth at https://api.modrinth.com/v2/project/AANobbMI[39m
+[32mDEBUG: Succesfully accesed Labrinth Api![39m
+[43mSodium
+A modern rendering engine for Minecraft which greatly improves performance
+Followers: 8858[49m
+[32mDEBUG: Found version: 1.16.3[39m
+[32mDEBUG: Found version: 1.16.4[39m
+[32mDEBUG: Found version: 1.16.5[39m
+[32mDEBUG: Found version: 1.17.1[39m
+[32mDEBUG: Found version: 1.18[39m
+[32mDEBUG: Found version: 1.18.1[39m
+[32mDEBUG: Found version: 1.18.2[39m
+[32mDEBUG: Found version: 1.19[39m
+[32mDEBUG: Found version: 1.19.1[39m
+[32mDEBUG: Found version: 1.19.2[39m
+[32mDEBUG: Found version: 1.19.3[39m
+[32mDEBUG: Found version: 1.19.4[39m
+[32mDEBUG: Found version: 1.20[39m
+[32mDEBUG: Found version: 1.20.1[39m
+[32mDEBUG: Found version: 1.20.2[39m
+[32mDEBUG: Found 1 versions id's[39m
+yaoBL9D9
+[32mDEBUG: Found 2 versions id's[39m
+YAGZ1cCS
+[32mDEBUG: Found 3 versions id's[39m
+1b0GhKHj
+[32mDEBUG: Found 4 versions id's[39m
+80jYkEVr
+[32mDEBUG: Found 5 versions id's[39m
+xuWxRZPd
+[32mDEBUG: Found 6 versions id's[39m
+3JJvf9Kn
+[32mDEBUG: Found 7 versions id's[39m
+6YGRDUVT
+[32mDEBUG: Found 8 versions id's[39m
+Fz37KqRh
+[32mDEBUG: Found 9 versions id's[39m
+5JyduDNN
+[32mDEBUG: Found 10 versions id's[39m
+74Y5Z8fo
+[32mDEBUG: Found 11 versions id's[39m
+Yp8wLY1P
+[32mDEBUG: Found 12 versions id's[39m
+F79MzDJD
+[32mDEBUG: Found 13 versions id's[39m
+rAfhHfow
+[32mDEBUG: Found 14 versions id's[39m
+mnEhtGuH
+[32mDEBUG: Found 15 versions id's[39m
+Nr39FOaS
+[32mDEBUG: Found 16 versions id's[39m
+ObtU68vj
+[32mDEBUG: Found 17 versions id's[39m
+oYfJQ6lR
+[32mDEBUG: Found 18 versions id's[39m
+idtcaIVT
+[32mDEBUG: Found 19 versions id's[39m
+b4hTi3mo
+[32mDEBUG: Found 20 versions id's[39m
+vgceLbdH
+[32mDEBUG: Found 21 versions id's[39m
+hiO9bwqc
+[32mDEBUG: Found 22 versions id's[39m
+OkwCNtFH
+[32mDEBUG: Found 23 versions id's[39m
+6SSPmLc9
+[32mDEBUG: Found 24 versions id's[39m
+4OZL6q9h
+[32mDEBUG: Found 25 versions id's[39m
+bbP1qBMr
+[42mWhat version do You need?: [49m[42mFound version![49m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking: hashes[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking: url[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking: filename[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking: primary[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking: size[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking: file_type[39m
+[32mDEBUG: Checking: https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: No more versions avaible (IndexError)[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Found https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: There are 150 avaible url's[39m
+[32mDEBUG: Rechecking every of them for grammar/user error...[39m
+[32mDEBUG: Checking 0[39m
+[32mDEBUG: Obj number: 0 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking 1[39m
+[32mDEBUG: Obj number: 1 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking 2[39m
+[32mDEBUG: Obj number: 2 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking 3[39m
+[32mDEBUG: Obj number: 3 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking 4[39m
+[32mDEBUG: Obj number: 4 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking 5[39m
+[32mDEBUG: Obj number: 5 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar[39m
+[32mDEBUG: Checking 6[39m
+[32mDEBUG: Obj number: 6 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking 7[39m
+[32mDEBUG: Obj number: 7 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking 8[39m
+[32mDEBUG: Obj number: 8 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking 9[39m
+[32mDEBUG: Obj number: 9 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking 10[39m
+[32mDEBUG: Obj number: 10 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking 11[39m
+[32mDEBUG: Obj number: 11 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar[39m
+[32mDEBUG: Checking 12[39m
+[32mDEBUG: Obj number: 12 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking 13[39m
+[32mDEBUG: Obj number: 13 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking 14[39m
+[32mDEBUG: Obj number: 14 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking 15[39m
+[32mDEBUG: Obj number: 15 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking 16[39m
+[32mDEBUG: Obj number: 16 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking 17[39m
+[32mDEBUG: Obj number: 17 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar[39m
+[32mDEBUG: Checking 18[39m
+[32mDEBUG: Obj number: 18 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking 19[39m
+[32mDEBUG: Obj number: 19 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking 20[39m
+[32mDEBUG: Obj number: 20 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking 21[39m
+[32mDEBUG: Obj number: 21 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking 22[39m
+[32mDEBUG: Obj number: 22 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking 23[39m
+[32mDEBUG: Obj number: 23 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar[39m
+[32mDEBUG: Checking 24[39m
+[32mDEBUG: Obj number: 24 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking 25[39m
+[32mDEBUG: Obj number: 25 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking 26[39m
+[32mDEBUG: Obj number: 26 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking 27[39m
+[32mDEBUG: Obj number: 27 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking 28[39m
+[32mDEBUG: Obj number: 28 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking 29[39m
+[32mDEBUG: Obj number: 29 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar[39m
+[32mDEBUG: Checking 30[39m
+[32mDEBUG: Obj number: 30 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking 31[39m
+[32mDEBUG: Obj number: 31 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking 32[39m
+[32mDEBUG: Obj number: 32 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking 33[39m
+[32mDEBUG: Obj number: 33 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking 34[39m
+[32mDEBUG: Obj number: 34 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking 35[39m
+[32mDEBUG: Obj number: 35 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar[39m
+[32mDEBUG: Checking 36[39m
+[32mDEBUG: Obj number: 36 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking 37[39m
+[32mDEBUG: Obj number: 37 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking 38[39m
+[32mDEBUG: Obj number: 38 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking 39[39m
+[32mDEBUG: Obj number: 39 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking 40[39m
+[32mDEBUG: Obj number: 40 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking 41[39m
+[32mDEBUG: Obj number: 41 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar[39m
+[32mDEBUG: Checking 42[39m
+[32mDEBUG: Obj number: 42 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking 43[39m
+[32mDEBUG: Obj number: 43 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking 44[39m
+[32mDEBUG: Obj number: 44 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking 45[39m
+[32mDEBUG: Obj number: 45 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking 46[39m
+[32mDEBUG: Obj number: 46 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking 47[39m
+[32mDEBUG: Obj number: 47 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar[39m
+[32mDEBUG: Checking 48[39m
+[32mDEBUG: Obj number: 48 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking 49[39m
+[32mDEBUG: Obj number: 49 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking 50[39m
+[32mDEBUG: Obj number: 50 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking 51[39m
+[32mDEBUG: Obj number: 51 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking 52[39m
+[32mDEBUG: Obj number: 52 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking 53[39m
+[32mDEBUG: Obj number: 53 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar[39m
+[32mDEBUG: Checking 54[39m
+[32mDEBUG: Obj number: 54 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking 55[39m
+[32mDEBUG: Obj number: 55 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking 56[39m
+[32mDEBUG: Obj number: 56 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking 57[39m
+[32mDEBUG: Obj number: 57 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking 58[39m
+[32mDEBUG: Obj number: 58 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking 59[39m
+[32mDEBUG: Obj number: 59 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar[39m
+[32mDEBUG: Checking 60[39m
+[32mDEBUG: Obj number: 60 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking 61[39m
+[32mDEBUG: Obj number: 61 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking 62[39m
+[32mDEBUG: Obj number: 62 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking 63[39m
+[32mDEBUG: Obj number: 63 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking 64[39m
+[32mDEBUG: Obj number: 64 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking 65[39m
+[32mDEBUG: Obj number: 65 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar[39m
+[32mDEBUG: Checking 66[39m
+[32mDEBUG: Obj number: 66 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking 67[39m
+[32mDEBUG: Obj number: 67 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking 68[39m
+[32mDEBUG: Obj number: 68 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking 69[39m
+[32mDEBUG: Obj number: 69 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking 70[39m
+[32mDEBUG: Obj number: 70 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking 71[39m
+[32mDEBUG: Obj number: 71 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar[39m
+[32mDEBUG: Checking 72[39m
+[32mDEBUG: Obj number: 72 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking 73[39m
+[32mDEBUG: Obj number: 73 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking 74[39m
+[32mDEBUG: Obj number: 74 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking 75[39m
+[32mDEBUG: Obj number: 75 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking 76[39m
+[32mDEBUG: Obj number: 76 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking 77[39m
+[32mDEBUG: Obj number: 77 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar[39m
+[32mDEBUG: Checking 78[39m
+[32mDEBUG: Obj number: 78 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking 79[39m
+[32mDEBUG: Obj number: 79 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking 80[39m
+[32mDEBUG: Obj number: 80 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking 81[39m
+[32mDEBUG: Obj number: 81 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking 82[39m
+[32mDEBUG: Obj number: 82 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking 83[39m
+[32mDEBUG: Obj number: 83 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar[39m
+[32mDEBUG: Checking 84[39m
+[32mDEBUG: Obj number: 84 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking 85[39m
+[32mDEBUG: Obj number: 85 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking 86[39m
+[32mDEBUG: Obj number: 86 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking 87[39m
+[32mDEBUG: Obj number: 87 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking 88[39m
+[32mDEBUG: Obj number: 88 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking 89[39m
+[32mDEBUG: Obj number: 89 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar[39m
+[32mDEBUG: Checking 90[39m
+[32mDEBUG: Obj number: 90 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking 91[39m
+[32mDEBUG: Obj number: 91 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking 92[39m
+[32mDEBUG: Obj number: 92 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking 93[39m
+[32mDEBUG: Obj number: 93 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking 94[39m
+[32mDEBUG: Obj number: 94 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking 95[39m
+[32mDEBUG: Obj number: 95 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar[39m
+[32mDEBUG: Checking 96[39m
+[32mDEBUG: Obj number: 96 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking 97[39m
+[32mDEBUG: Obj number: 97 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking 98[39m
+[32mDEBUG: Obj number: 98 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking 99[39m
+[32mDEBUG: Obj number: 99 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking 100[39m
+[32mDEBUG: Obj number: 100 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking 101[39m
+[32mDEBUG: Obj number: 101 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar[39m
+[32mDEBUG: Checking 102[39m
+[32mDEBUG: Obj number: 102 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking 103[39m
+[32mDEBUG: Obj number: 103 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking 104[39m
+[32mDEBUG: Obj number: 104 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking 105[39m
+[32mDEBUG: Obj number: 105 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking 106[39m
+[32mDEBUG: Obj number: 106 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking 107[39m
+[32mDEBUG: Obj number: 107 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar[39m
+[32mDEBUG: Checking 108[39m
+[32mDEBUG: Obj number: 108 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking 109[39m
+[32mDEBUG: Obj number: 109 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking 110[39m
+[32mDEBUG: Obj number: 110 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking 111[39m
+[32mDEBUG: Obj number: 111 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking 112[39m
+[32mDEBUG: Obj number: 112 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking 113[39m
+[32mDEBUG: Obj number: 113 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar[39m
+[32mDEBUG: Checking 114[39m
+[32mDEBUG: Obj number: 114 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking 115[39m
+[32mDEBUG: Obj number: 115 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking 116[39m
+[32mDEBUG: Obj number: 116 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking 117[39m
+[32mDEBUG: Obj number: 117 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking 118[39m
+[32mDEBUG: Obj number: 118 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking 119[39m
+[32mDEBUG: Obj number: 119 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar[39m
+[32mDEBUG: Checking 120[39m
+[32mDEBUG: Obj number: 120 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking 121[39m
+[32mDEBUG: Obj number: 121 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking 122[39m
+[32mDEBUG: Obj number: 122 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking 123[39m
+[32mDEBUG: Obj number: 123 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking 124[39m
+[32mDEBUG: Obj number: 124 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking 125[39m
+[32mDEBUG: Obj number: 125 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar[39m
+[32mDEBUG: Checking 126[39m
+[32mDEBUG: Obj number: 126 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking 127[39m
+[32mDEBUG: Obj number: 127 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking 128[39m
+[32mDEBUG: Obj number: 128 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking 129[39m
+[32mDEBUG: Obj number: 129 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking 130[39m
+[32mDEBUG: Obj number: 130 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking 131[39m
+[32mDEBUG: Obj number: 131 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar[39m
+[32mDEBUG: Checking 132[39m
+[32mDEBUG: Obj number: 132 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking 133[39m
+[32mDEBUG: Obj number: 133 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking 134[39m
+[32mDEBUG: Obj number: 134 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking 135[39m
+[32mDEBUG: Obj number: 135 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking 136[39m
+[32mDEBUG: Obj number: 136 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking 137[39m
+[32mDEBUG: Obj number: 137 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar[39m
+[32mDEBUG: Checking 138[39m
+[32mDEBUG: Obj number: 138 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking 139[39m
+[32mDEBUG: Obj number: 139 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking 140[39m
+[32mDEBUG: Obj number: 140 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking 141[39m
+[32mDEBUG: Obj number: 141 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking 142[39m
+[32mDEBUG: Obj number: 142 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking 143[39m
+[32mDEBUG: Obj number: 143 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar[39m
+[32mDEBUG: Checking 144[39m
+[32mDEBUG: Obj number: 144 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking 145[39m
+[32mDEBUG: Obj number: 145 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking 146[39m
+[32mDEBUG: Obj number: 146 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking 147[39m
+[32mDEBUG: Obj number: 147 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking 148[39m
+[32mDEBUG: Obj number: 148 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
+[32mDEBUG: Checking 149[39m
+[32mDEBUG: Obj number: 149 in urrlist is False[39m
+[32mDEBUG: Obj name is https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar[39m
