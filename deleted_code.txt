@@ -1,0 +1,12 @@
+    # Rechecking them
+    debug("Rechecking every of them for grammar/user error...")
+    for url_recheck in range(len(urllist)):
+        debug(f"Checking {url_recheck}")
+        if str(urllist).startswith("https://cdn.modrinth.com/data/") == False:
+            url_recheck_object = True
+        else:
+            url_recheck_object = False
+        debug(f"Obj number: {url_recheck} in urrlist is {url_recheck_object}")
+        debug(f"Obj name is {urllist[url_recheck]}")
+        
+

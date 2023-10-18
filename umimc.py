@@ -12,23 +12,20 @@ import tqdm
 import requests
 from colorama import Fore, Back, Style
 import json
+from config import *
 
-# Defining user agent
-headerss = {
-    'User-Agent': 'yehorscode/Umimc (umimc@proton.me)'
-}
+
 # VERY IMPORT VALUES!
-debug_mode = True
 url_get_findrequest = "https://api.modrinth.com/v2/search?query="
 url_get_findrequest_string_type_mod = "&facets=[[%22project_type:mod%22]]"
 url_get_findproject = "https://api.modrinth.com/v2/project/"
 url_get_project = "https://api.modrinth.com/v2/project/"
 fmod_get_projectversion = "https://api.modrinth.com/v2/project/"
 fmod_get_projectversion2 = "/version"
-# Cdn links not important
+# Cdn links, not important
 fmod_modrinth_cdn1 = "https://cdn.modrinth.com/data/"
 fmod_modrinth_cdn2 = "/versions/"
-# https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar
+
 # VERY IMPORTANT LISTS/VALUES/DICTIONARIES
 fmod_title = {}
 fmod_projectid = {}
@@ -38,12 +35,11 @@ versions_dict = {}
 getmod_description = "None"
 versions_id_dict = {}
 urllist = []
+
 # Stolen from stack overflow
 def prettysort(dct):
     for item, amount in dct.items():  # dct.iteritems() in Python 2
         print(Back.CYAN+"{} ({})".format(item, amount)+Back.RESET)
-
-    
 
 # Defining what debug text looks like
 debug_text = Fore.GREEN + "DEBUG: "
@@ -177,9 +173,10 @@ if action == "1":
     
     # User interaction with fmod (choosing mod id and mod name)
     fmod_user_interaction_modversion = input(Back.GREEN+"What version do You need?: "+Back.RESET)
-    
     # Checking if the version is avaible
     counterr = 0
+    versions_dict_ading = len(versions_dict.keys())
+    versions_dict[versions_dict_ading] = None
     for i in range(len(versions_dict)):
         if versions_dict[counterr] == fmod_user_interaction_modversion:
             print(Back.GREEN+"Found version!"+Back.RESET)
@@ -187,7 +184,17 @@ if action == "1":
             break
         else:
             counterr+=1
-
+    if counterr == len(versions_dict.keys()):
+        debug("Hmmm... It seems that the are none versions avaible")
+        debug("Asking user to continue or stop")
+        print(f"{Back.RED}It seems tat version that You want isn't avaible!")
+        actions_continue = input(f"What do You want?(Stop/continue){Back.RESET}")
+        if actions_continue.lower() == "s" or actions_continue.lower() == "stop" or len(actions_continue) == 0:
+            debug("Raising Error")
+            raise NameError("Stopped the app")
+        else:
+            debug("Continuing...")
+            print(f"{Fore.BLUE}Choosen CONTINUE{Fore.RESET}")
     # Choosing the download url
     for counting_s_url in tqdm.tqdm(range(100)):
         try:
@@ -208,21 +215,7 @@ if action == "1":
 
     # Showing how many there are url's
     debug(f"There are {len(urllist)} avaible url's")
-    url_recheck_object = None
-    # Rechecking them
-    debug("Rechecking every of them for grammar/user error...")
-    for url_recheck in range(len(urllist)):
-        debug(f"Checking {url_recheck}")
-        if str(urllist).startswith("https://cdn.modrinth.com/data/") == True:
-            url_recheck_object = True
-        else:
-            url_recheck_object = False
-        debug(f"Obj number: {url_recheck} in urrlist is {url_recheck_object}")
-        debug(f"Obj name is {urllist[url_recheck]}")
-        
 
-    # Prompting the user
-#    for iteration in tqdm(range(len(urllist)))
         
 
 elif action == "3":
