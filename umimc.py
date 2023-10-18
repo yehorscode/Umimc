@@ -13,7 +13,7 @@ import requests
 from colorama import Fore, Back, Style
 import json
 from config import *
-
+import webbrowser
 
 # VERY IMPORT VALUES!
 url_get_findrequest = "https://api.modrinth.com/v2/search?query="
@@ -50,7 +50,8 @@ def debug(debugtext):
         print(f"{debug_text}{debugtext}{Fore.RESET}")
 
 # Printing Debug Mode Enabled
-debug(f"{Back.WHITE,Fore.BLACK}Debug mode ENABLED{Fore.RESET,Back.RESET}")
+if debug_mode == True:
+    print(Back.WHITE+Fore.BLACK+"Debug mode ENABLED"+Back.RESET+Fore.RESET)
 
 # Welcome text
 print(Fore.GREEN + "Welcome to Umimc! Universal Minecraft Mod installer!\n", Fore.RESET)
@@ -216,7 +217,17 @@ if action == "1":
     # Showing how many there are url's
     debug(f"There are {len(urllist)} avaible url's")
 
-        
+    # Prompting user to choose the url
+    for action_url in range(len(urllist)):
+        print(f"{Back.CYAN}{action_url}: {urllist[action_url]}{Back.RESET}")
+    # User action
+    actions_choose_url = int(input(f"{Fore.CYAN}What do you choose? Type 0 to download latest. (0-{len(urllist)}){Back.RESET}"))
+    choosen_url = urllist[actions_choose_url]
+    debug(f"Choosen {choosen_url} as url")
+
+    # Opening browser
+    debug(f"Opening url")
+    webbrowser.open_new(choosen_url)
 
 elif action == "3":
     # Asking for Modrinth Project project id
