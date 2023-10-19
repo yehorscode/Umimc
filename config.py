@@ -6,7 +6,7 @@
 global config
 
 # Turn on or off debug mode (True/False)
-debug_mode = True
+debug_mode = False
 
 # Defining user agent (DO NOT CHANGE THIS)
 headerss = {
