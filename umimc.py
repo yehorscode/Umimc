@@ -11,7 +11,6 @@
 import tqdm
 import requests
 from colorama import Fore, Back, Style
-import json
 from config import *
 import webbrowser
 

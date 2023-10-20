@@ -1,6 +1,9 @@
-from colorama import Fore, Back, Style
+Hi my friend!
+Here You can find pip packages that You NEED to install
+to run Umimc.
+Just run this code or run autoinstall.py
 
 pip install colorama
 pip install webbrowser
 pip install tqdm
-pip install json
+pip install requests
