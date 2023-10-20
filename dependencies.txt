@@ -1,7 +1,6 @@
 from colorama import Fore, Back, Style
 
 pip install colorama
-import webbrowser
 pip install webbrowser
 pip install tqdm
 pip install json
