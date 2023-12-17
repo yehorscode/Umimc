@@ -319,8 +319,8 @@ Not affiliated with Rinth, Inc. or Modrinth.
                 .^~7?JYY55YYJ?7~:.                Just a Modrinth logo :)
             :!?Y5PPPP55555555PPPP5Y?~.            It is an easter egg :))
          :7YPPP5J7~:..     ...^~?Y5PP5Y7:         I wanted to include it because it is pretty
-       ~Y5PPY7:                   .^?5PP5Y^       
-     ^YP55?:      .:~!7?J^    :.      ~Y55PY^      
+       ~Y5PPY7:                   .^?5PP5Y^       https://modrinth.com/frog
+     ^YP55?:      .:~!7?J^    :.      ~Y55PY^     Click this ↑↑↑↑
    .JP55J:     :7Y5PPPPP5.   ^P5Y7:     ^Y55P?    
   .Y555~     !Y5PP5?!^:..    ^J5PP5Y~     ?555Y.  
  .5555:    ^5555?^              ^J55PY^    ~555Y.    /l、  
