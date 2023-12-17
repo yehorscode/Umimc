@@ -35,6 +35,7 @@ getmod_description = "None"
 versions_id_dict = {}
 urllist = []
 urlversiondict = {}
+loaders = []
 
 # Stolen from stack overflow
 def prettysort(dct):
@@ -54,8 +55,30 @@ if debug_mode == True:
     print(Back.WHITE+Fore.BLACK+"Debug mode ENABLED"+Back.RESET+Fore.RESET)
 
 # Loop
-looping = True
-while looping == True:
+for i in range(1):
+    print(f"""{Fore.GREEN}
+
+This mod uses Modrinth as Backend
+Labrinth Api is used here
+Huge thanks to the Modrinth team for theirs amazing work!
+          
+Umimc Github page:
+https://github.com/yehorscode/Umimc
+          
+If you found any bugs email me:
+umimc@proton.me
+ 
+You can also reach me on discord:
+@.egorro
+
+If you make more than 300 requests per minute,
+Labrinth is going to rate limit you!
+ 
+Made by @yehorscode
+Not affiliated with Rinth, Inc. or Modrinth.
+""")
+    print()
+    print()
     # Welcome text
     print(Fore.GREEN + "Welcome to Umimc! Universal Minecraft Mod installer!\n", Fore.RESET)
     print(Back.GREEN + "Select your mode:" + Back.RESET)
@@ -179,6 +202,7 @@ while looping == True:
         
         # User interaction with fmod (choosing mod id and mod name)
         fmod_user_interaction_modversion = input(Back.GREEN+"What version do You need?: "+Back.RESET)
+
         # Checking if the version is avaible
         counterr = 0
         versions_dict_ading = len(versions_dict.keys())
@@ -190,8 +214,9 @@ while looping == True:
                 break
             else:
                 counterr+=1
+
         if counterr == len(versions_dict.keys()):
-            debug("Hmmm... It seems that the are none versions avaible")
+            debug("Hmmm... It seems that none of the versions are avaible")
             debug("Asking user to continue or stop")
             print(f"{Back.RED}It seems tat version that You want isn't avaible!")
             actions_continue = input(f"What do You want?(Stop/continue){Back.RESET}")
@@ -201,6 +226,7 @@ while looping == True:
             else:
                 debug("Continuing...")
                 print(f"{Fore.BLUE}Choosen CONTINUE{Fore.RESET}")
+
         # Choosing the download url
         for counting_s_url in tqdm.tqdm(range(100)):
             try:
@@ -208,7 +234,16 @@ while looping == True:
                 files_s_url = number_s_url["files"]
                 files0_s_url = files_s_url[0]
                 game_version_find = number_s_url["game_versions"]
-
+                find_loader = number_s_url["loaders"]
+                #for loader_num in range(10):
+                #     loader_name = str(find_loader[loader])
+                #     print(loader_name)
+                #     if len(loader_name)>= 0:
+                #         if loader_name in loaders:
+                #             continue
+                #         else:
+                #             loaders.append(loader_name)
+                        
                 for s_url in files0_s_url:
                     debug(f"Checking {game_version_find} url")
                     debug(f"Checking: {s_url}")
