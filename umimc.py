@@ -90,7 +90,6 @@ Not affiliated with Rinth, Inc. or Modrinth.
     3: Get info about the mod (requaires project id)
     4: Network check (checks is Labrinth avaible)
     5: Advanced tools
-    M: Show little cool Modrinth ascii logo
     S: Stop the app"""+Back.RESET)
 
     # Just a new line
@@ -311,37 +310,7 @@ Not affiliated with Rinth, Inc. or Modrinth.
             elif debug_mode == False:
                 debug_mode = True
                 print(debug_text+"Turned ON debugging "+str(debug_mode)+Fore.RESET)
-    
-    elif action.lower() == "m":
-        print(f"""{Fore.GREEN}
 
-
-                .^~7?JYY55YYJ?7~:.                Just a Modrinth logo :)
-            :!?Y5PPPP55555555PPPP5Y?~.            It is an easter egg :))
-         :7YPPP5J7~:..     ...^~?Y5PP5Y7:         I wanted to include it because it is pretty
-       ~Y5PPY7:                   .^?5PP5Y^       https://modrinth.com/frog
-     ^YP55?:      .:~!7?J^    :.      ~Y55PY^     Click this ↑↑↑↑
-   .JP55J:     :7Y5PPPPP5.   ^P5Y7:     ^Y55P?    
-  .Y555~     !Y5PP5?!^:..    ^J5PP5Y~     ?555Y.  
- .5555:    ^5555?^              ^J55PY^    ~555Y.    /l、  
- J555^    !P55Y:     :^~7?JJ.     ^Y55P! ..^Y555?  （ﾟ､ ｡ 7  
-~P5P?    ~P55J     :J5PPPP57.      .Y555Y5PPP5555^   l  ~ヽ 
-!?7?.   .5555.   :J5555?~:.         :5555Y?7~?555J   じしf_,)/
-        ^P55J    ^5555!        ..    Y555:   :P555
-        :P55J     J555Y:   .!JYP5    Y55P:   ^5555
-J555:   .5555: ^7Y55P555?7J555PJ:   :5555    7P55J
-~555?    ~55555PPPY7^?55PPP55Y^    .Y55P^    :!?Y^
- J555~ .^?555555!.    :?7~^.      ^Y55P~          
- .5555J5PP5YY555?:              ^J55PY:    ~~:.   
-  .Y5555Y~:  !Y5PP5?!^....    ~5PP5Y~     ?PPPY.  
-   .JP55Y:     :7Y5PPPPP5P:   .5Y7:     ~555P?    
-     ^YP55J^      .:~!7??J!          .~Y55PY^     
-       ~Y5PPY7^.                  .^?5PP5Y^       
-         :7YPPP5Y?!^:..   ...:^!?Y5PP5Y7:         
-            :!?Y5PPPP55555555PPPP5Y?~:            
-                .^~7?JYY55YYJ?7~^.                Modrinth logo is property of Modrinth and Rinth, inc.
-{Fore.RESET}
-""")
 
     elif action.lower() == "stop" or action.lower() == "s" or action.lower() == "st":
         print(f"{Back.RED}Stopping! :){Back.RESET}")
