@@ -1,4 +1,4 @@
-# The code is written by YehorsCode (My name is Yehor) it has the MIT License
+# The code is written by YehorsCode it has the MIT License
 # And is FOSS (Fully open source)
 # You can use parts of my code in yours code!
 # But remember! Mention me and email me (umimc@proton.me) before doing that!
